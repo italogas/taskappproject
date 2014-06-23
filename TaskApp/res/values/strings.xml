@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TaskApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="botao_adicionarTarefa">Adicionar tarefa</string>
+    <string name="botao_tarefasDoDia">Tarefas do dia</string>
+    <string name="botao_tarefasDaSemana">Tarefas da semana</string>
+    <string name="title_activity_adicionar_tarefa">Adicionar Tarefa</string>
+    <string name="atividade">Atividade:</string>
+    <string name="local">Local:</string>
+    <string name="obs">Observações:</string>
+    <string name="data">Data:</string>
+    <string name="horaInicio">De:</string>
+    <string name="horaFim">Até:</string>
+    <string name="tarefa_cadastrada_">Tarefa cadastrada!</string>
+    <string name="title_activity_visualizar_tarefas">VisualizarTarefasActivity</string>
+    <string name="title_activity_exibir_tarefa">ExibirTarefaActivity</string>
+
+</resources>

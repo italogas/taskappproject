@@ -1,0 +1,42 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.br.italogas.taskapp.ExibirTarefaActivity$PlaceholderFragment" >
+    
+    <TextView 
+        android:id="@+id/textViewAtividade"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+    
+    <TextView 
+        android:id="@+id/textViewData"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+    
+    <TextView 
+        android:id="@+id/textViewHorario"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+    
+    <TextView 
+        android:id="@+id/textViewLocal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       	/>
+    
+    <TextView 
+        android:id="@+id/textViewObs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       	/>
+
+</LinearLayout>
